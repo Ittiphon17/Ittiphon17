@@ -7,6 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🎓 Computer Science student at Kasetsart University, Kamphaeng Saen campus
 --------------------------------------------------------------------------
+<a href="https://www.github.com/Ittiphon17" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Ittiphon17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 * 🌍  I'm based in Nakornpathom, Thailand
 * 🤖 Interested in Machine Learning and Banking
