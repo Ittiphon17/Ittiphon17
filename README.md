@@ -14,6 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 💻 Experienced in web and app development using Node.js, JavaScript, and testing with Katalon Studio
 * 🔧 Knowledgeable in managing knife sharpening services and writing reports on software tools like Jira Software
 * 💡 Believes in the fascinating idea of living a happy life without having to work
+*  ✉️  You can contact me at [ittiphon.k@ku.th](mailto:ittiphon.k@ku.th)
 
 ### Skills
 
