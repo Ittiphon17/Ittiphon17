@@ -9,6 +9,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------------------------------------------------
 
 * 🌍  I'm based in Nakornpathom, Thailand
+* 🤖 Interested in Machine Learning and Banking
+* 📈 Studying stocks, ETFs, and passionate about investing
+*💡 Believes in the fascinating idea of living a happy life without having to work
 
 ### Skills
 
