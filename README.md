@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/Ittiphon17" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ittiphon17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-* 🌍  I'm based in Nakornpathom, Thailand
+* 🌍  I'm based in Nakhon Pathom, Thailand
 * 🤖 Interested in Machine Learning and Banking
 * 📈 Studying stocks, ETFs, and passionate about investing
 * 💻 Experienced in web and app development using Node.js, JavaScript, and testing with Katalon Studio
