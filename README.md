@@ -23,4 +23,4 @@ src="https://img.shields.io/github/followers/Ittiphon17?logo=github&style=for-th
 
 
 ## 🎖️ Achievements & Certification
-<div role="none" class="u-hidden-whenEmpty"><!----><!----><img class="badgeImage l-topMatter-x-image ng-star-inserted" src="https://api.badgr.io/public/assertions/KjdeWrZCTgyQPWGiG1BjwA/image" style="--base-badge-size: 80px;" title="Badge Image: Mini Bootcamp 2025" alt="Badge Image: Mini Bootcamp 2025 " width="146" height="146"><!----><!----><!----><!----><!----> </div> 
+
