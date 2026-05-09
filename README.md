@@ -17,6 +17,7 @@ src="https://img.shields.io/github/followers/Ittiphon17?logo=github&style=for-th
 * 🔧 Knowledgeable in managing knife sharpening services and writing reports on software tools like Jira Software
 * 💡 Believes in the fascinating idea of living a happy life without having to work
 *  ✉️  You can contact me at [ittiphon.kongkaew@gmail.com](mailto:ittiphon.kongkaew@gmail.com)
+*  🎁  Who I Am [aboutittiphon.vercel.app](https://aboutittiphon.vercel.app)
 
 ## 🛠️  **Technologies & Tools**
 ### **LANGUAGES**
