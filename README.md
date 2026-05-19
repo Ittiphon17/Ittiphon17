@@ -63,7 +63,7 @@ src="https://img.shields.io/github/followers/Ittiphon17?logo=github&style=for-th
 <div align="center">
 <h2 align="center">🌐 Connect with me</h2>
 
-  <a href="www.linkedin.com/in/ittiphon-kongkaew" target="_blank">
+  <a href="https://www.linkedin.com/in/ittiphon-kongkaew" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ittiphon kongkaew" height="30" width="40" />
   </a>
   <a href="https://www.kaggle.com/ittiphon" target="_blank">
