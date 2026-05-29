@@ -47,31 +47,9 @@ src="https://img.shields.io/github/followers/Ittiphon17?logo=github&style=for-th
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) 
-
-
-
 <div align="center">
 
-## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=ittiphon17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ittiphon17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
-
-</br>
-
-<div align="center">
-<h2 align="center">🌐 Connect with me</h2>
-
-  <a href="https://www.linkedin.com/in/ittiphon-kongkaew" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ittiphon kongkaew" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/ittiphon" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ittiphon" height="30" width="40" />
-  </a>
-
-</div>
-</br>
 
 <div align="right" >
   <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/acd75c023e72f40c2853d9d8df2c6703-1698695470/doclight1mm%2032/make-a-pixel-art-gif.gif" width="190" height="190"/>
